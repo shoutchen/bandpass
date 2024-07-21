@@ -22,12 +22,12 @@ filter coefficients for each ADC Sample via 3 DACS/ADC pairs.
 
 See the testbed block diagram and the devboard schematics for more information.
 
-Here is a link to some reference material that is the basis for the inner workings
-of the filter.
-
-https://jackschaedler.github.io/circles-sines-signals/dotproduct.html
+Here is a link to some reference material that is the basis for the filters inner workings.
 
 
+
+
+ https://jackschaedler.github.io/circles-sines-signals/index.html
 
 
 
