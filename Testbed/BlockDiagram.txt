@@ -1,3 +1,14 @@
+HMI
+
+FREQ
+
+AMPL
+
+PHASE
+
+DAC
+
+
 FPGA 
 
 HMI
