@@ -1,3 +1,5 @@
+REFCLK
+
 CPU
 
 HMI
