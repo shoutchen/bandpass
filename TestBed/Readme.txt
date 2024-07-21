@@ -22,7 +22,8 @@ filter coefficients for each ADC Sample via 3 DACS/ADC pairs.
 
 See the testbed block diagram and the devboard schematics for more information.
 
-Here is a link to some reference material that is the basis for the filters inner workings.
+Here is a link to some reference material that contains the bulk of the theory behind
+the filters inner workings.
 
 
 
