@@ -23,10 +23,8 @@ filter coefficients for each ADC Sample via 3 DACS/ADC pairs.
 See the testbed block diagram and the devboard schematics for more information.
 
 Here is a link to some reference material that contains the bulk of the theory behind
-the filters inner workings.
-
-
-
+the filters inner workings.  There are some nice visual aids sprinkled though the material.
+It is worth your time to read.
 
  https://jackschaedler.github.io/circles-sines-signals/index.html
 
