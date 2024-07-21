@@ -24,6 +24,13 @@ See the testbed block diagram and the devboard schematics for more information.
 
 Here is a link to some reference material regarding the inner workings of the filter.
 
+https://jackschaedler.github.io/circles-sines-signals/dotproduct.html
+
+
+
+
+
+
 
 
 
