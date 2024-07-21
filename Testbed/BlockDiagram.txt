@@ -1,0 +1,27 @@
+FPGA 
+
+HMI
+
+DAC
+
+ADC
+
+SINE
+
+COSINE
+
+BLACKMAN
+
+DSP MAC
+
+GPIO
+
+HMI
+
+
+
+
+
+
+
+
