@@ -1,1 +1,0 @@
-Olimex open source hardware
